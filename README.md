@@ -1,2 +1,4 @@
 # TodoApp
-Keep learning State Management: Provider
+Keep learning State Management: Provider  
+## Reference  
+[Dribbble: Task Management Application](https://dribbble.com/shots/14989612-Task-Management-Application/attachments/6710059?mode=media)
